@@ -1,0 +1,33 @@
+ Tienda Deportiva
+
+👤 Emyl Morales
+1. feat: creación de la estructura base del sitio (index.html)
+   → Se desarrolló la página principal con encabezado, secciones de productos y pie de página.
+2. fix: corrección de enlaces rotos en el menú de navegación
+   → Se ajustaron las rutas del menú en el archivo index.html.
+3. docs: comentarios descriptivos en el HTML para facilitar mantenimiento
+   → Se añadieron comentarios estructurados en index.html explicando cada sección.
+
+👤 Nyko Ardila
+1. style: diseño del encabezado y pie de página en style.css
+   → Se implementaron estilos para la barra superior, logo y footer.
+2. feat: aplicación de estilos responsivos con media queries
+   → Se añadió soporte para dispositivos móviles en style.css.
+3. fix: ajuste de colores y márgenes en las tarjetas de productos
+   → Se mejoró la legibilidad y el espaciado en la galería principal.
+
+👤 Leydi Pinzón
+1. feat: creación de la sección de promociones y ofertas
+   → Se agregó una nueva sección en index.html con estilos personalizados.
+2. style: mejora del diseño visual y paleta de colores
+   → Se aplicó una combinación más moderna y equilibrada de colores deportivos.
+3. docs: actualización del encabezado HTML con metadatos y favicon
+   → Se mejoró la optimización SEO y presentación del sitio.
+
+👤 Heilyin Sánchez
+1. feat: inclusión del catálogo de productos en formato de cuadrícula
+   → Se desarrolló el diseño visual del catálogo dentro de index.html.
+2. fix: corrección de errores de alineación en la sección de productos
+   → Se ajustaron propiedades flex y grid en style.css.
+3. chore: organización de archivos y limpieza del código
+   → Se eliminaron estilos duplicados y se ordenó la estructura del CSS.
